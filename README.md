@@ -1,5 +1,8 @@
 # NFT Mint Project
 
+프로젝트 주소 (폰트가 깨짐주의)
+https://Lim-Hyun-Jeong.github.io/NFT_Mint_Project
+
 ## Not Connected
 <img width="1355" alt="스크린샷 2022-05-20 오후 7 29 27" src="https://user-images.githubusercontent.com/95120267/169510245-0aed3b1c-d629-4279-b15a-1fc329dcd5c2.png">
 
