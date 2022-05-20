@@ -1,15 +1,11 @@
-# Basic Sample Hardhat Project
+# NFT Mint Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+## Not Connected
+<img width="1355" alt="스크린샷 2022-05-20 오후 7 29 27" src="https://user-images.githubusercontent.com/95120267/169510245-0aed3b1c-d629-4279-b15a-1fc329dcd5c2.png">
 
-Try running some of the following tasks:
+## Connected
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+<img width="1356" alt="스크린샷 2022-05-20 오후 7 29 39" src="https://user-images.githubusercontent.com/95120267/169510249-86e14e73-2b47-4a7e-aa30-06d107553412.png">
+
+## Click Mint Button
+<img width="364" alt="스크린샷 2022-05-20 오후 7 30 01" src="https://user-images.githubusercontent.com/95120267/169510255-c9e7b097-ff27-44eb-ab3c-ab5774a56e1d.png">
